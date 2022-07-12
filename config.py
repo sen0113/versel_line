@@ -1,0 +1,2 @@
+LINE_CHANNEL_SECRET = "54ae860fc81c283e6401748493be167d"   # チャンネルシークレット
+LINE_CHANNEL_ACCESS_TOKEN = "VYkCP0EWI35XWo/TMhYx9grz4OGqaTu/8hHalp4i4jdQV7Rdeb3OTOAYx3Xl6j4idsLNAhcH+pFfzsqkwS4BYY0CmbO2mEPnD+BBpjcArUgbWmsugUiXullqm/qGPmqQ1t+ioB+/CsCbnPaVTHpI5QdB04t89/1O/w1cDnyilFU="   # チャンネルアクセストークン
